@@ -38,7 +38,7 @@
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,react,nodejs,mongodb,express,html,css,tailwind,bootstrap,git,github,vscode,docker,kubernetes,figma,postman,vercel" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,react,nodejs,mongodb,express,html,css,tailwind,bootstrap,git,github,vscode,figma,postman,vercel" />
   </a>
 </p>
 
