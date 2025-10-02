@@ -15,7 +15,7 @@
 
 - 🔭 I’m interested in **Competitive Programming, Web Development, and Backend Systems**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Devops**
 
 - 👯 I’m looking to collaborate on **innovative Full Stack & MERN Projects**
 
